@@ -9,3 +9,5 @@ module timer_counter (
     end
 endmodule
 // Memory layout adjusted for stability
+
+// Modified timing constraints 36ns
