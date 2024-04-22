@@ -9,3 +9,5 @@ module uart_rx (
     end
 endmodule
 // Fixed identified race condition
+
+// Fixed identified race condition
