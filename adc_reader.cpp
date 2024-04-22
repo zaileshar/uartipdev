@@ -6,3 +6,4 @@ public:
         std::cout << "Adc_reader initialized." << std::endl;
     }
 };
+// Modified timing constraints 48ns
