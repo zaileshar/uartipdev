@@ -9,3 +9,5 @@ module wishbone_if (
     end
 endmodule
 // Updated logic section 41
+
+// Modified timing constraints 34ns
