@@ -11,3 +11,5 @@ public:
 // Updated logic section 4
 
 // Updated logic section 14
+
+// Memory layout adjusted for performance
